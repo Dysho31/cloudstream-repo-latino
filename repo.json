@@ -1,0 +1,17 @@
+{
+    "name": "CloudStream Latino",
+    "source": "https://github.com/Dysho31/cloudstream-repo-latino",
+    "languages": ["es", "latino"],
+    "streams": [
+        {
+            "name": "Cuevana3",
+            "url": "https://tv8.cuevana3.vip/",
+            "category": "Peliculas y Series"
+        },
+        {
+            "name": "PelisPlus",
+            "url": "https://ww3.pelisplus.to/",
+            "category": "Peliculas y Series"
+        }
+    ]
+}
